@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 💧 - Hydrology / Flood risk management
+
 📍 - Delft, NL
+
 💼 - Deltares
 
 <!--
