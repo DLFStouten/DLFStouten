@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+💧 - Hydrology / Flood risk management
+📍 - Delft, NL
+💼 - Deltares
+
 <!--
 **DLFStouten/DLFStouten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
